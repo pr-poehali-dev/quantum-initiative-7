@@ -1,7 +1,7 @@
-import { LinkBioPage } from "./pages/LinkBioPage"
+import RecipeEncyclopedia from "./pages/RecipeEncyclopedia";
 
 function App() {
-  return <LinkBioPage />
+  return <RecipeEncyclopedia />;
 }
 
-export default App
+export default App;
